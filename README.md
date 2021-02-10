@@ -7,7 +7,6 @@
     3. Pasileiskite migracijas.
     4. Yra paruošti seederiai, galite juos paleisti.
     
-    __________________________________________________________
     
     TODO arba ką nepavyko padaryti:
     
