@@ -2,7 +2,7 @@
  CRUD with Laravel
  
  Priminimai dėstytojui:
-    1. Nusikopijavus repositoriją, pasitiktinkite .htaccess failą. 
+    1. Nusikopijavus repositoriją, pasitiktinkite .htaccess failą.<br> 
     2. Pasidarykite duomenų bazės aprašą .env
     3. Pasileiskite migracijas.
     4. Yra paruošti seederiai, galite juos paleisti.
