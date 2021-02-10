@@ -1,11 +1,11 @@
 # 05sprintas_PManager_laravel
  CRUD with Laravel
  
- Priminimai dėstytojui:
+ Priminimai dėstytojui:<br> 
     1. Nusikopijavus repositoriją, pasitiktinkite .htaccess failą.<br> 
-    2. Pasidarykite duomenų bazės aprašą .env
-    3. Pasileiskite migracijas.
-    4. Yra paruošti seederiai, galite juos paleisti.
+    2. Pasidarykite duomenų bazės aprašą .env <br> 
+    3. Pasileiskite migracijas.<br> 
+    4. Yra paruošti seederiai, galite juos paleisti.<br> 
     
     
     TODO arba ką nepavyko padaryti:
